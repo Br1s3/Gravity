@@ -1,4 +1,4 @@
-
+# Program that simulates N-bodies in motion
 
 
 ## Reference:

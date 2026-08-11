@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <math.h>
 
-#define ODESOLVERLIB_IMPLEMENTATION
-#include "ODEsolverlib.h"
+#define DEVER_IMPLEMENTATION
+#include "dever.h"
 
 #define FPS 60
 #define WIDTH (16*100)
